@@ -46,8 +46,8 @@
 <g mask="url(#mask0_2001_2)">
 <circle cx="1472.5" cy="1472.5" r="1472.5" fill="white"/>
 </g>
-<mask id="mask1_2001_2" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="656" y="909" width="1633" height="74">
-<rect x="656" y="909" width="1633" height="74" fill="#113043"/>
+<mask id="mask1_2001_2" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="656" y="880" width="1633" height="132">
+<rect x="656" y="880" width="1633" height="132" fill="#113043"/>
 </mask>
 <g mask="url(#mask1_2001_2)">
 <ellipse cx="1472.5" cy="622" rx="790.5" ry="581" fill="black"/>
